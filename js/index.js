@@ -66,6 +66,7 @@ function findMax(array) {
   );
 }
 
+//Задание 10
 var findButtonDelay = document.getElementById('find-button-delay');
 var findInputDelay = document.getElementById('find-input-delay');
 function onButtonClickWrapper() {
