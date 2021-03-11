@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-size: 18px;
+}
+
+.google-container {
+  .find-input {
+    border: 1px solid red;
+    width: 250px;
+    height: 50px;
+    padding: 10px;
+  }
+  .find-button {
+    background-color: green;
+    color: white;
+    width: 100px;
+    height: 50px;
+  }
+
+}
